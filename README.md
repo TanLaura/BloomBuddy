@@ -65,6 +65,9 @@
   - navigation for results page
 - Results page (placeholder without connection to backend)
 
+- Currently Building a dataset for connection.
+- Testing nice-to-have function of having a map function to show nearby florist. 
+
 ## To view the results
 **1. Clone/Pull from the github**
 - git clone https://github.com/url <br>
